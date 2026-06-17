@@ -245,6 +245,6 @@ The project demonstrates an end-to-end analytics workflow, covering data ingesti
 
 ## Author
 
-**Chandru**
-B.Tech – Metallurgical & Materials Engineering, NIT Trichy
+**Chandru P**  
+B.Tech – Metallurgical & Materials Engineering, NIT Trichy  
 Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization
