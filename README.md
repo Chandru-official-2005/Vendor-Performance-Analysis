@@ -41,6 +41,18 @@ The analysis was performed using multiple datasets stored in SQLite:
 * Sales: 12.8 Million+ records
 * Vendor Sales Summary: 10,692 aggregated records
 
+The original project was built using multiple transactional datasets, including purchases, sales, pricing, inventory, and vendor invoices.
+
+For simplicity and repository size optimization, the final analytical dataset (`vendor_sales_summary.csv`) has been provided. This dataset contains all engineered features and business metrics used for SQL analysis and Power BI dashboard development.
+
+Key metrics include:
+- Total Revenue
+- Gross Profit
+- Profit Margin
+- Stock Turnover
+- Sales-to-Purchase Ratio
+- Freight Cost
+
 ---
 
 ## Tools & Technologies
@@ -207,6 +219,8 @@ The dashboard provides an interactive view of vendor and product performance.
 Vendor-Sales-Profitability-Analysis/
 │
 ├── data/
+│   └── vendor_sales_summary.csv
+│
 ├── notebooks/
 │   ├── EDA.ipynb
 │   └── Analysis.ipynb
