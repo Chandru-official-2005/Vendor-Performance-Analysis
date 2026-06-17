@@ -1,8 +1,8 @@
 # Vendor Sales and Profitability Analysis Report
 
-**Project Title:** Vendor Sales and Profitability Analysis
-**Prepared By:** Chandru P
-**Tools Used:** Python (Pandas), SQLite, MySQL, Power BI, Jupyter Notebook
+**Project Title:** Vendor Sales and Profitability Analysis  
+**Prepared By:** Chandru P  
+**Tools Used:** Python (Pandas), SQLite, MySQL, Power BI, Jupyter Notebook  
 **Dataset Size:** Over 15 million records across sales, purchases, inventory, pricing, and vendor transaction tables. 
 
 ---
